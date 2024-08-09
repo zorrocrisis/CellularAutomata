@@ -1,7 +1,9 @@
 ## **Cellular Automata**
-A simple cellular automata built in my free time, in a single day. This algorithm is commonly utilised to create procedurally generated worlds for (simple) video games!
+A simple cellular automata built in my free time.
 
-In essence, the algorithm takes a randomly generated map, containing "wall" tiles, represented by "X", and "floor" tiles, represented by "_", and progressively generates a new map, following a set of rules to define whether tiles should be walls or floors.
+This algorithm is **commonly utilised to create procedurally generated fantasy worlds** for (simple) video games!
+
+In essence, the algorithm takes a randomly generated map, containing "wall" tiles, represented by "X", and "floor" tiles, represented by "_", and progressively generates a new version of the map, following a set of rules to define whether tiles should be walls or floors.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7754b686-9d88-4984-88df-331ddd8a39ca" width=500/>

@@ -13,14 +13,14 @@ In essence, the algorithm takes a randomly generated map, containing "wall" tile
 
 
 ## **Quick Start**
-1. Clone the repository or download and unzip the files
+- 1. Clone the repository or download and unzip the files
 
 If you plan on taking a look at the source code:
-2. Open the solution in Visual Studio (last tested with version 2022)
-3. You can run the program with F5
+- 2. Open the solution in Visual Studio (last tested with version 2022)
+- 3. You can run the program with F5
 
 If you plan on just taking a look at the build itself:
-2. Navigate to x64 > Release and execute "CellularAutomata.exe"
+- 2. Navigate to x64 > Release and execute "CellularAutomata.exe"
 
 You can **change the generate map's parameters** (height, width and "wall" density). Try 20 height, 60 width and 35 "wall density"...
 

@@ -8,7 +8,7 @@ In essence, the algorithm takes a randomly generated map, containing "wall" tile
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7da0dc24-5a8c-40c7-b218-bdaafdca09bb"/>
+  <img src="https://github.com/user-attachments/assets/7da0dc24-5a8c-40c7-b218-bdaafdca09bb" width=500/>
 </p>
 
 
